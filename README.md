@@ -34,5 +34,5 @@
 1. Клонируешь репозиторий:  
 
 ```bash
-git clone https://github.com/yourusername/Secure-Password-Manager-V2.git
+git clone https://github.com/abylhair123-beep/Secure-Password-Manager-V2
 cd Secure-Password-Manager-V2
