@@ -1,12 +1,10 @@
-# Виртуальное окружение
+
 .venv/
 __pycache__/
 *.pyc
 
-# Личные данные (не заливать на GitHub)
 data/master.hash
 data/passwords.json
 
-# Логи и временные файлы
 *.log
 *.tmp
